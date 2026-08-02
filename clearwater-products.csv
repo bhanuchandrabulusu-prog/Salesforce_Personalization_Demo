@@ -1,0 +1,17 @@
+Id,Name,ProductSKU,PrimaryProductCategory,PrimaryProductSubCategoryName,Description,ProductImageURL
+clearwater-variable-home-loan,Clearwater Variable Home Loan,VHL-001,Home Loan,Variable,Variable rate home loan from 5.89% p.a. with free redraw and no ongoing fees.,https://placeholder.co/400x300/0F2A4A/FFFFFF?text=Variable+Home+Loan
+clearwater-fixed-home-loan,Clearwater Fixed Rate Home Loan,FHL-001,Home Loan,Fixed,Fixed rate home loan at 5.99% p.a. Lock in certainty for 1-3 years.,https://placeholder.co/400x300/0F2A4A/FFFFFF?text=Fixed+Home+Loan
+clearwater-offset-mortgage,Clearwater Offset Mortgage,OFM-001,Home Loan,Offset,Offset mortgage at 5.95% p.a. with 100% offset account.,https://placeholder.co/400x300/0F2A4A/FFFFFF?text=Offset+Mortgage
+first-home-buyer-package,First Home Buyer Package,FHB-001,Home Loan,First Home,Complete first home buyer package at 5.89% p.a. with waived LMI.,https://placeholder.co/400x300/1B6CA8/FFFFFF?text=First+Home+Buyer
+everyday-savings,Everyday Savings Account,SAV-001,Savings,Everyday,Everyday savings at 5.10% p.a. with zero fees.,https://placeholder.co/400x300/059669/FFFFFF?text=Everyday+Savings
+clearwater-savings,Clearwater Savings Account,SAV-002,Savings,Bonus,Loyalty savings rate at 5.35% p.a. for existing customers.,https://placeholder.co/400x300/059669/FFFFFF?text=Clearwater+Savings
+term-deposit-enhanced,Term Deposit Enhanced,TDP-001,Investment,Term Deposit,Premier term deposit at 5.40% p.a. for 12 months.,https://placeholder.co/400x300/B8952A/FFFFFF?text=Term+Deposit
+premier-investment-portfolio,Premier Investment Portfolio,INV-001,Investment,Managed,Managed investment portfolio for Premier members.,https://placeholder.co/400x300/B8952A/FFFFFF?text=Investment+Portfolio
+visa-classic,Visa Classic Card,VCC-001,Credit Card,Classic,0% on purchases for 12 months. No annual fee first year.,https://placeholder.co/400x300/7C3AED/FFFFFF?text=Visa+Classic
+platinum-visa,Platinum Visa Card,PVC-001,Credit Card,Platinum,$0 annual fee for Premier members. Complimentary insurance.,https://placeholder.co/400x300/7C3AED/FFFFFF?text=Platinum+Visa
+personal-loan,Clearwater Personal Loan,PL-001,Personal Loan,Unsecured,Personal loans from 8.99% p.a. with no early repayment fees.,https://placeholder.co/400x300/2382C6/FFFFFF?text=Personal+Loan
+business-growth-loan,Business Growth Loan,BGL-001,Business Loan,Growth,Business loans from 6.20% p.a. No establishment fee.,https://placeholder.co/400x300/7C3AED/FFFFFF?text=Business+Growth+Loan
+business-transaction-account,Business Transaction Account,BTA-001,Business Account,Transaction,No monthly fees. Unlimited transactions.,https://placeholder.co/400x300/0F2A4A/FFFFFF?text=Business+Account
+business-visa-card,Business Visa Card,BVC-001,Business Credit,Visa,55 interest-free days. 1.5% cashback on all purchases.,https://placeholder.co/400x300/0F2A4A/FFFFFF?text=Business+Visa
+home-contents-insurance,Home and Contents Insurance,INS-001,Insurance,Home,Bundle discount when paired with a Clearwater home loan.,https://placeholder.co/400x300/64748B/FFFFFF?text=Insurance
+repayment-insurance,Repayment Insurance,INS-002,Insurance,Repayment,Protect your loan repayments from $12/month.,https://placeholder.co/400x300/64748B/FFFFFF?text=Repayment+Insurance
