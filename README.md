@@ -1,6 +1,6 @@
 # Clearwater Bank — Salesforce Personalization Demo
 
-A complete end-to-end demo environment for **Salesforce Personalization** (Data 360) built around a fictional Australian retail bank. Demonstrates real-time website personalization, identity resolution, AI-powered product recommendations, A/B experimentation, and cross-channel Marketing Cloud Next integration.
+A complete end-to-end demo environment for **Salesforce Personalization** (Data 360) built around a fictional retail bank. Demonstrates real-time website personalization, identity resolution, AI-powered product recommendations, A/B experimentation, and cross-channel Marketing Cloud Next integration.
 
 ---
 
