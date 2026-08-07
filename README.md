@@ -1,6 +1,6 @@
 # Clearwater Bank — Salesforce Personalization Demo
 
-A complete end-to-end demo environment for **Salesforce Personalization** (Data 360) built around a fictional retail bank. Demonstrates real-time website personalization, identity resolution, AI-powered product recommendations, A/B experimentation, and cross-channel Marketing Cloud Next integration.
+A complete end-to-end demo for **Salesforce Personalization** (Data 360) built around a fictional retail bank. Demonstrates real-time website personalization, identity resolution, AI-powered product recommendations, A/B experimentation, and cross-channel Marketing Cloud Next integration.
 
 ---
 
@@ -12,7 +12,7 @@ A ready-to-use demo kit for showcasing Salesforce Personalization capabilities t
 - Salesforce Personalization (Data 360)
 - Salesforce Interactions SDK
 - Salesforce Data Cloud (Data Streams, DMOs, Identity Resolution, Data Graphs, Calculated Insights)
-- Marketing Cloud Next (Flows, Segments, Email — Phase 2)
+- Marketing Cloud Next (Flows, Segments, Email — Phase 2 in the works)
 
 ---
 
@@ -22,7 +22,7 @@ A ready-to-use demo kit for showcasing Salesforce Personalization capabilities t
 
 - Python 3.x (for localhost)
 - Chrome browser
-- Access to a Salesforce org with Salesforce Personalization (Data 360) enabled
+- Access to a Salesforce org with Salesforce Personalization (Data 360) enabled (currently using Bhanu's SDO org). 
 - Salesforce Interactions SDK Web Connector configured
 
 ### Run the Demo
